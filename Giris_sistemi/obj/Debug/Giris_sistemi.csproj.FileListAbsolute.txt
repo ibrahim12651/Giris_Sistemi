@@ -1,0 +1,4 @@
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Giris_sistemi\Giris_sistemi\bin\Giris_sistemi.dll
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Giris_sistemi\Giris_sistemi\bin\Giris_sistemi.pdb
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Giris_sistemi\Giris_sistemi\obj\Debug\Giris_sistemi.dll
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Giris_sistemi\Giris_sistemi\obj\Debug\Giris_sistemi.pdb
