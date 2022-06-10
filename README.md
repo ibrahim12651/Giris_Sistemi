@@ -3,5 +3,8 @@ Asp.net ile yaptığım Giriş_Sistemi yaptım.
 
 
 
-https://user-images.githubusercontent.com/39805679/173120322-9b9208e3-657c-4089-88d0-c6c89eaa7247.mp4
+
+
+
+https://user-images.githubusercontent.com/39805679/173120388-ed6234fe-c65b-4463-81d8-dfa8df210c7b.mp4
 
